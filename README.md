@@ -1,16 +1,21 @@
-## Hi there 👋
+-- 🌸 Welcome to My Profile
 
-<!--
-**sadewni-suhansa/sadewni-suhansa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ -- About Me
+Hello! I'm **Sadewni Suhansa**, a passionate student who loves learning and exploring technology.
 
-Here are some ideas to get you started:
+- 🎓 **Major:** Software Engineering  
+- 🎂 **Age:** 22  
+- 💡 **Interests:** Programming, software development, and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 My Journey
+I am currently studying **Software Engineering** and continuously working to improve my technical skills.  
+I enjoy building projects, solving problems, and discovering new tools in the tech world.
+
+ 🎯 Goals
+- 🌱 Learn and master modern programming technologies  
+- 💻 Build useful and creative software projects  
+- 📚 Continuously grow as a software developer
+
+---
+
+✨ *“Keep learning, keep building.”*
